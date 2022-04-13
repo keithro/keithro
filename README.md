@@ -10,9 +10,9 @@ I'm an accountant and hobby programmer turned software developer. In addition to
 Check out my [Portfolio](https://www.keithrodriguez.me/) and connect with me on [LinkedIn](https://www.linkedin.com/in/keithrodriguez)
 
 ### Rapidfire 
-- 🔭  I’m currently working on redoing my [portfolio](https://github.com/keithro/portfolio)  
+- 🌱  I am currently learning Java.
   
-- 🌱  I am currently learning Java and Next.js  
+- 🔭  I am also working on redoing my [portfolio](https://github.com/keithro/portfolio)  
   
 - 💬  Ask me about plants, especially aroids, or the MERN stack and related technologies.
   
