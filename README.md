@@ -3,20 +3,17 @@
 
 <br/>
 
-I'm an accountant and hobby programmer turned software developer. In addition to working out and being outdoors, I love learning new technologies and finding solutions to real world problems. I am equally passionate about creating engaging, interactive user interfaces as much as I am about building the backends and APIs that do all the heavy lifting.
+I'm a software developer. I love learning new technologies and finding solutions to real world problems. I am equally passionate about creating engaging, interactive user interfaces as much as I am about building the backends and APIs that do all the heavy lifting. I also really enjoy collaborating so if you'd like help on a project connect with me and lets chat! 
 
 <br/>
 
-Check out my [Portfolio](https://www.keithrodriguez.me/) and connect with me on [LinkedIn](https://www.linkedin.com/in/keithrodriguez)
+Check out my [Portfolio](https://www.keithrodriguez.dev/) and connect with me on [LinkedIn](https://www.linkedin.com/in/keithrodriguez)
 
 ### Rapidfire 
-- 🌱  I am currently learning Java.
-  
-- 🔭  I am also working on redoing my [portfolio](https://github.com/keithro/portfolio)  
-  
-- 💬  Ask me about plants, especially aroids, or the MERN stack and related technologies.
-  
-- ⚡  Fun fact: I recently completed a software engineering bootcamp 👨🏽‍💻 but got my Masters in Accounting.  
+- I am currently learning Java and Firebase.
+- I just updated my [portfolio](https://github.com/keithro/portfolio_2022) using Next.js
+- When I'm not working on my computer you can find me at the gym, on my bike or playing pickleball.
+- Fun fact: I recently completed a software engineering bootcamp 👨🏽‍💻 but got my Masters in Accounting.  
 <br/>
 
 ---
