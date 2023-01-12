@@ -13,7 +13,7 @@ Check out my [Portfolio](https://www.keithrodriguez.dev/) and connect with me on
 - I am currently learning Java and Firebase.
 - I just updated my [portfolio](https://github.com/keithro/portfolio_2022) using Next.js
 - When I'm not working on my computer you can find me at the gym, on my bike or playing pickleball.
-- Fun fact: I recently completed a software engineering bootcamp 👨🏽‍💻 but got my Masters in Accounting.  
+- Fun fact: I recently completed a software engineering bootcamp 👨🏽‍💻 but earned my Masters in Accounting.  
 <br/>
 
 ---
@@ -58,17 +58,17 @@ Check out my [Portfolio](https://www.keithrodriguez.dev/) and connect with me on
     <img src="https://github-readme-stats.vercel.app/api?username=keithro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
   </td>
   <td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithro&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    <img src="[https://github-readme-stats.vercel.app](https://www.keithrodriguez.dev/)/api/top-langs/?username=keithro&hide_border=true&layout=compact" align="left" style="width: 100%" />
   </td>
 </tr></table>  
 
 <br/>  
 
----
+<!-- --- -->
 
-<p align="center">
- <img src="https://badges.pufler.dev/visits/keithro/keithro"/> 
+<!-- <p align="center">
+ <img src="https://badges.pufler.dev/visits/keithro/keithro"/>  -->
  <!-- <img src="https://badges.pufler.dev/years/keithro"/> -->
  <!-- <img src="https://badges.pufler.dev/repos/keithro"/> -->
  <!-- <img src="https://badges.pufler.dev/commits/monthly/keithro" /> -->
-</p>
+<!-- </p> -->
