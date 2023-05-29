@@ -1,20 +1,13 @@
 
-<h1 align="center">👋 Hello! I'm Keith.</h1>
+<h1 align="center">Hello! I'm Keith.</h1>
 
 <br/>
 
-I'm a software developer. I love learning new technologies and finding solutions to real world problems. I am equally passionate about creating engaging, interactive user interfaces as much as I am about building the backends and APIs that do all the heavy lifting. I also really enjoy collaborating so if you'd like help on a project connect with me and lets chat! 
+As a driven software developer, I leverage the latest technology to solve real-world problems and deliver exceptional user experiences. With strong communication skills I am able to work independently and within a team framework. I bring experience with various languages, frameworks, and databases, and a thoughtful approach to problem-solving. My passion for continuous learning and improvement ensures I stay ahead of industry developments and deliver cutting-edge solutions.
 
 <br/>
 
 Check out my [Portfolio](https://www.keithrodriguez.dev/) and connect with me on [LinkedIn](https://www.linkedin.com/in/keithrodriguez)
-
-### Rapidfire 
-- I am currently learning Java and Firebase.
-- I just updated my [portfolio](https://github.com/keithro/portfolio_2022) using Next.js
-- When I'm not working on my computer you can find me at the gym, on my bike or playing pickleball.
-- Fun fact: I recently completed a software engineering bootcamp 👨🏽‍💻 but earned my Masters in Accounting.  
-<br/>
 
 ---
 
